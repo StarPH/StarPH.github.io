@@ -1,5 +1,5 @@
 name: melonsmtown
-on:
+on: push
   schedule:
     - cron: '*/5 * * * *' # Every 5 minutes
 jobs:
